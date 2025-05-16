@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: ✨Pic-Q 사용자 가이드
+nav:
+  - Home: index.md
+  - Vision Guide: 
+      - Calibration: vision/calibration.md
+  - GUI Guide:
+      - Connection: gui/connection.md
+      - General Settings: gui/general-settings.md
+      - ROI Settings: gui/roi-settings.md
+  - About: about.md

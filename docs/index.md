@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+[![AI Bin Picking Solution](/assets/thumbnail.png)](https://www.youtube.com/watch?v=04Uzk1nE3Lc)
 
 ## Commands
 
