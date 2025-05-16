@@ -1,6 +1,6 @@
 # picq-manual
 mkdocs 기반의 매뉴얼입니다. PLAIF Pic-Q의 사용법을 가이드합니다.
-[![AI Bin Picking Solution](docs/assets/thumbnail.png)](https://www.youtube.com/watch?v=04Uzk1nE3Lc)
+[![AI Bin Picking Solution](docs/assets/home/thumbnail.png)](https://www.youtube.com/watch?v=04Uzk1nE3Lc)
 
 ### 배포 페이지 가기
 https://plaif.github.io/picq-manual/
