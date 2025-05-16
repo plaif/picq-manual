@@ -1,6 +1,6 @@
 # Home
 
-[![AI Bin Picking Solution](/assets/thumbnail.png)](https://www.youtube.com/watch?v=04Uzk1nE3Lc)
+[![AI Bin Picking Solution](assets/thumbnail.png)](https://www.youtube.com/watch?v=04Uzk1nE3Lc)
 
 ## Commands
 
