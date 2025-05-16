@@ -32,21 +32,21 @@
 <table>
   <tr>
     <td width="33%">
-      <img src="assets/home/main1.png" width="100%"><br>
+      <img src="assets/home/main4.png" width="100%"><br>
       <strong>개별 물체의 정확한 식별 및 분리</strong><br>
         AI 모델이 각각의 물체를 정확히 구분하여 개별 물체를
         식별할 수 있으므로, 다수의 물체가 혼재된 상황에서도
         개별 피스 피킹이 가능합니다.
     </td>
     <td width="33%">
-      <img src="assets/home/main2.png" width="100%"><br>
+      <img src="assets/home/main5.png" width="100%"><br>
       <b>복잡한 형태의 물체에 대한 대응력</b><br>
         포즈&뎁스 추정 모델을 통해 다양한 각도와 형태의 물체를
         파악하여, 불규칙한 형상이나 여러 자세로 놓인 물체도
         안정적으로 집을 수 있습니다.
     </td>
     <td width="33%">
-      <img src="assets/home/main3.png" width="100%"><br>
+      <img src="assets/home/main6.png" width="100%"><br>
       <strong>추가 학습이 필요 없는 피킹 슈퍼모델</strong><br>
         다양한 제품을 피킹 하기 위한 슈퍼모델을 제공함으로써
         추가 학습 없이 효과적으로 물체를 집을 수 있습니다.
